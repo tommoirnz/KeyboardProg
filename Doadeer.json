@@ -1,0 +1,356 @@
+{
+    "tune_name": "Doadeer",
+    "notes": [
+        {
+            "name": "G4",
+            "duration": 1
+        },
+        {
+            "name": "C4",
+            "duration": 1
+        },
+        {
+            "name": "A4",
+            "duration": 1
+        },
+        {
+            "name": "F4",
+            "duration": 1
+        },
+        {
+            "name": "E4",
+            "duration": 1
+        },
+        {
+            "name": "C4",
+            "duration": 1
+        },
+        {
+            "name": "D4",
+            "duration": 2.0
+        },
+        {
+            "name": "G4",
+            "duration": 1
+        },
+        {
+            "name": "C4",
+            "duration": 1
+        },
+        {
+            "name": "A4",
+            "duration": 1
+        },
+        {
+            "name": "B4",
+            "duration": 1
+        },
+        {
+            "name": "C5",
+            "duration": 1
+        },
+        {
+            "name": "D5",
+            "duration": 1
+        },
+        {
+            "name": "C5",
+            "duration": 2.0
+        },
+        {
+            "name": "C5",
+            "duration": 0.25
+        },
+        {
+            "name": "B4",
+            "duration": 0.25
+        },
+        {
+            "name": "A4",
+            "duration": 0.25
+        },
+        {
+            "name": "G4",
+            "duration": 0.25
+        },
+        {
+            "name": "F4",
+            "duration": 0.25
+        },
+        {
+            "name": "E4",
+            "duration": 0.25
+        },
+        {
+            "name": "D4",
+            "duration": 0.25
+        },
+        {
+            "name": "C4",
+            "duration": 0.75
+        },
+        {
+            "name": "D4",
+            "duration": 0.25
+        },
+        {
+            "name": "E4",
+            "duration": 0.75
+        },
+        {
+            "name": "C4",
+            "duration": 0.25
+        },
+        {
+            "name": "E4",
+            "duration": 0.5
+        },
+        {
+            "name": "C4",
+            "duration": 0.5
+        },
+        {
+            "name": "E4",
+            "duration": 1
+        },
+        {
+            "name": "D4",
+            "duration": 0.75
+        },
+        {
+            "name": "E4",
+            "duration": 0.25
+        },
+        {
+            "name": "F4",
+            "duration": 0.25
+        },
+        {
+            "name": "F4",
+            "duration": 0.25
+        },
+        {
+            "name": "E4",
+            "duration": 0.25
+        },
+        {
+            "name": "D4",
+            "duration": 0.25
+        },
+        {
+            "name": "F4",
+            "duration": 1.5
+        },
+        {
+            "name": "E4",
+            "duration": 0.75
+        },
+        {
+            "name": "F4",
+            "duration": 0.25
+        },
+        {
+            "name": "G4",
+            "duration": 0.75
+        },
+        {
+            "name": "E4",
+            "duration": 0.25
+        },
+        {
+            "name": "G4",
+            "duration": 0.5
+        },
+        {
+            "name": "E4",
+            "duration": 0.5
+        },
+        {
+            "name": "G4",
+            "duration": 1
+        },
+        {
+            "name": "F4",
+            "duration": 0.75
+        },
+        {
+            "name": "G4",
+            "duration": 0.25
+        },
+        {
+            "name": "A4",
+            "duration": 0.25
+        },
+        {
+            "name": "A4",
+            "duration": 0.25
+        },
+        {
+            "name": "G4",
+            "duration": 0.25
+        },
+        {
+            "name": "F4",
+            "duration": 0.25
+        },
+        {
+            "name": "A4",
+            "duration": 1
+        },
+        {
+            "name": "G4",
+            "duration": 0.75
+        },
+        {
+            "name": "C4",
+            "duration": 0.25
+        },
+        {
+            "name": "D4",
+            "duration": 0.25
+        },
+        {
+            "name": "E4",
+            "duration": 0.25
+        },
+        {
+            "name": "F4",
+            "duration": 0.25
+        },
+        {
+            "name": "G4",
+            "duration": 0.25
+        },
+        {
+            "name": "A4",
+            "duration": 1
+        },
+        {
+            "name": "A4",
+            "duration": 0.75
+        },
+        {
+            "name": "D4",
+            "duration": 0.25
+        },
+        {
+            "name": "E4",
+            "duration": 0.25
+        },
+        {
+            "name": "F4",
+            "duration": 0.25
+        },
+        {
+            "name": "G4",
+            "duration": 0.25
+        },
+        {
+            "name": "A4",
+            "duration": 0.25
+        },
+        {
+            "name": "B4",
+            "duration": 0.75
+        },
+        {
+            "name": "B4",
+            "duration": 0.75
+        },
+        {
+            "name": "E4",
+            "duration": 0.25
+        },
+        {
+            "name": "F4",
+            "duration": 0.25
+        },
+        {
+            "name": "G4",
+            "duration": 0.25
+        },
+        {
+            "name": "A4",
+            "duration": 0.25
+        },
+        {
+            "name": "B4",
+            "duration": 0.25
+        },
+        {
+            "name": "C5",
+            "duration": 0.75
+        },
+        {
+            "name": "C5",
+            "duration": 0.25
+        },
+        {
+            "name": "B4",
+            "duration": 0.25
+        },
+        {
+            "name": "A4",
+            "duration": 0.5
+        },
+        {
+            "name": "F4",
+            "duration": 0.5
+        },
+        {
+            "name": "B4",
+            "duration": 0.5
+        },
+        {
+            "name": "G4",
+            "duration": 0.5
+        },
+        {
+            "name": "C5",
+            "duration": 0.75
+        },
+
+
+	 {
+            "name": "C4",
+            "duration": 0.25
+        },
+        {
+            "name": "D4",
+            "duration": 0.25
+        },
+        {
+            "name": "E4",
+            "duration": 0.25
+        },
+        {
+            "name": "F4",
+            "duration": 0.25
+        },
+        {
+            "name": "G4",
+            "duration": 0.25
+        },
+        {
+            "name": "A4",
+            "duration": 0.25
+        },
+        {
+            "name": "B4",
+            "duration": 0.25
+        },
+        {
+            "name": "C5",
+            "duration": 0.5
+        },
+        {
+            "name": "G4",
+            "duration": 0.5
+        },
+        {
+            "name": "C4",
+            "duration": 0.75
+        }
+
+    ]
+}

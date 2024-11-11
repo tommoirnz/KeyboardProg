@@ -1,0 +1,37 @@
+{
+    "tune_name": "Big Ben",
+    "notes": [
+        {
+            "name": "C4",
+            "duration": 1
+        },
+        {
+            "name": "E4",
+            "duration": 1
+        },
+        {
+            "name": "D4",
+            "duration": 1
+        },
+        {
+            "name": "G3",
+            "duration": 3
+        },
+        {
+            "name": "C4",
+            "duration": 1
+        },
+        {
+            "name": "D4",
+            "duration": 1
+        },
+        {
+            "name": "E4",
+            "duration": 1
+        },
+        {
+            "name": "C4",
+            "duration": 3
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "amplitudes": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "frequencies": [
+        261.63,
+        263.0,
+        261.63,
+        261.63,
+        261.63
+    ],
+    "waveforms": [
+        "Sine",
+        "Sine",
+        "Sine",
+        "Sine",
+        "Sine"
+    ],
+    "dc_offset": 0.0,
+    "time_scale": 0.05,
+    "trigger_threshold": 0.0,
+    "trigger_edge": "Rising",
+    "trigger_holdoff": 100.0,
+    "volume": 1.0,
+    "frequency_multiplier_step": null,
+    "key_shift_semitones": 0
+}

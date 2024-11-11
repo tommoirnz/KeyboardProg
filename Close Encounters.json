@@ -1,0 +1,25 @@
+{
+    "tune_name": "Close",
+    "notes": [
+        {
+            "name": "D5",
+            "duration": 0.75
+        },
+        {
+            "name": "E5",
+            "duration": 0.75
+        },
+        {
+            "name": "C5",
+            "duration": 0.75
+        },
+        {
+            "name": "C4",
+            "duration": 0.75
+        },
+        {
+            "name": "G4",
+            "duration": 2
+        }
+    ]
+}
